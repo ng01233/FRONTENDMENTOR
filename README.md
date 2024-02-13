@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [live website](https://your-live-site-url.com)
+- Live Site URL: [live website](https://lucent-cupcake-d5dbcd.netlify.app/)
 
 ## My process
 
